@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Danil
+![](https://komarev.com/ghpvc/?username=fqest)
 
-<!--
-**fqest/Fqest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I`m programmer, and student School 21
+- 💪 I like to write code
+- 🎉 I love developing games
+- 🥅 I am constantly learning new things
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://profile.intra.42.fr/">
+    <img src="https://badge42.herokuapp.com/api/stats/lvalery?darkmode=true"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fqest&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
