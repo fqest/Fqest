@@ -11,6 +11,9 @@
   </a>
 </p>
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/miniRT)](https://github.com/JaeSeoKim/badge42)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fqest&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
