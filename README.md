@@ -11,7 +11,7 @@
   </a>
 </p>
 
-MiniRT[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)
+MiniRT [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
