@@ -15,6 +15,8 @@ MiniRT [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/l
 Minishell [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/minishell)](https://github.com/JaeSeoKim/badge42)
 Philosophers [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Philosophers)](https://github.com/JaeSeoKim/badge42)
 Push_swap [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/push_swap)](https://github.com/JaeSeoKim/badge42)
+Libft [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Libft)](https://github.com/JaeSeoKim/badge42)
+Libasm [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/libasm)](https://github.com/JaeSeoKim/badge42)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
