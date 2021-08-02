@@ -34,9 +34,6 @@
           <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/minishell"> </td>
         </tr>
         <tr>
-          <td style="text-align:center;">MiniRT</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/miniRT"> </td>
-        </tr>      
-        <tr>
           <td style="text-align:center;">Push_swap</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/push_swap"> </td>
         </tr>        
         <tr>
