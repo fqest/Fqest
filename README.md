@@ -10,16 +10,43 @@
     <img src="https://badge42.herokuapp.com/api/stats/lvalery?darkmode=true&privacyEmail=true"/>
   </a>
 </p>
+<table>
+    <thead>
+        <tr>
+          <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Libft"> </td>
+        </tr>     
+        <tr>
+          <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/get_next_line"> </td>
+        </tr>       
+        <tr>
+          <td style="text-align:center;">Ft_printf</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/ft_printf"> </td>
+        </tr>     
+        <tr>
+          <td style="text-align:center;">Ft_server</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/ft_server"> </td>
+        </tr>        
+        <tr>
+          <td style="text-align:center;">Libasm</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/libasm"> </td>
+        </tr>         
+        <tr>
+          <td style="text-align:center;">MiniRT</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/miniRT"> </td>
+        </tr>
+        <tr>
+          <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/minishell"> </td>
+        </tr>
+        <tr>
+          <td style="text-align:center;">MiniRT</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/miniRT"> </td>
+        </tr>      
+        <tr>
+          <td style="text-align:center;">Push_swap</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/push_swap"> </td>
+        </tr>        
+        <tr>
+          <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Philosophers"> </td>
+        </tr>        
+    </thead>
+    <tbody>
+    </tbody>
+</table>
 
-MiniRT &nbsp &nbsp &nbsp        [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)<br>
-Minishell &emsp [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/minishell)](https://github.com/JaeSeoKim/badge42)<br>
-Philosophers  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Philosophers)](https://github.com/JaeSeoKim/badge42)<br>
-Push_swap     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/push_swap)](https://github.com/JaeSeoKim/badge42)<br>
-Libft         [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Libft)](https://github.com/JaeSeoKim/badge42)<br>
-Libasm        [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/libasm)](https://github.com/JaeSeoKim/badge42)<br>
-Get_next_line [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/get_next_line)](https://github.com/JaeSeoKim/badge42)<br>
-Ft_server     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_server)](https://github.com/JaeSeoKim/badge42)<br>
-Ft_printf     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_printf)](https://github.com/JaeSeoKim/badge42)<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
