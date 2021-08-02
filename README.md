@@ -17,6 +17,8 @@ Philosophers [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/pro
 Push_swap [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/push_swap)](https://github.com/JaeSeoKim/badge42)
 Libft [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Libft)](https://github.com/JaeSeoKim/badge42)
 Libasm [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/libasm)](https://github.com/JaeSeoKim/badge42)
+Get_next_line [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/get_next_line)](https://github.com/JaeSeoKim/badge42)
+Ft_server [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_server)](https://github.com/JaeSeoKim/badge42)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
