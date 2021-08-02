@@ -3,7 +3,6 @@
 
 ## I`m programmer, and student School 21
 - 💪 I like to write code
-- 🎉 I love developing games
 - 🥅 I am constantly learning new things
 
 <p align="center">
