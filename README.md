@@ -11,15 +11,15 @@
   </a>
 </p>
 
-MiniRT [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)<br>
-Minishell [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/minishell)](https://github.com/JaeSeoKim/badge42)<br>
-Philosophers [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Philosophers)](https://github.com/JaeSeoKim/badge42)<br>
-Push_swap [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/push_swap)](https://github.com/JaeSeoKim/badge42)<br>
-Libft [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Libft)](https://github.com/JaeSeoKim/badge42)<br>
-Libasm [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/libasm)](https://github.com/JaeSeoKim/badge42)<br>
+MiniRT        [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)<br>
+Minishell     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/minishell)](https://github.com/JaeSeoKim/badge42)<br>
+Philosophers  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Philosophers)](https://github.com/JaeSeoKim/badge42)<br>
+Push_swap     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/push_swap)](https://github.com/JaeSeoKim/badge42)<br>
+Libft         [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Libft)](https://github.com/JaeSeoKim/badge42)<br>
+Libasm        [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/libasm)](https://github.com/JaeSeoKim/badge42)<br>
 Get_next_line [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/get_next_line)](https://github.com/JaeSeoKim/badge42)<br>
-Ft_server [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_server)](https://github.com/JaeSeoKim/badge42)<br>
-Ft_printf [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_printf)](https://github.com/JaeSeoKim/badge42)<br>
+Ft_server     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_server)](https://github.com/JaeSeoKim/badge42)<br>
+Ft_printf     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/ft_printf)](https://github.com/JaeSeoKim/badge42)<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
