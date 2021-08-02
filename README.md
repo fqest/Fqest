@@ -11,8 +11,8 @@
   </a>
 </p>
 
-MiniRT        [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)<br>
-Minishell     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/minishell)](https://github.com/JaeSeoKim/badge42)<br>
+MiniRT&nbsp&nbsp&nbsp        [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/miniRT)](https://github.com/JaeSeoKim/badge42)<br>
+Minishell                   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/minishell)](https://github.com/JaeSeoKim/badge42)<br>
 Philosophers  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Philosophers)](https://github.com/JaeSeoKim/badge42)<br>
 Push_swap     [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/push_swap)](https://github.com/JaeSeoKim/badge42)<br>
 Libft         [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lvalery/Libft)](https://github.com/JaeSeoKim/badge42)<br>
