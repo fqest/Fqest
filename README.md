@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Fqest
+### Hi, I'm Fqest
 ![](https://komarev.com/ghpvc/?username=fqest)
 
 ## I am a student at School 21 (Ecole 42)
