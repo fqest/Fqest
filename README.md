@@ -39,6 +39,9 @@
         <tr>
           <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Philosophers"> </td>
         </tr>        
+        <tr>
+          <td style="text-align:center;">CPP piscine</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/cpp-module-08"> </td>
+        </tr>      
     </thead>
     <tbody>
     </tbody>
