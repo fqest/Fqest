@@ -16,6 +16,9 @@
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Libft"> </td>
         </tr>     
         <tr>
+          <td style="text-align:center;">Netwhat</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/netwhat"> </td>
+        </tr>  
+        <tr>
           <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/get_next_line"> </td>
         </tr>       
         <tr>
@@ -40,7 +43,7 @@
           <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Philosophers"> </td>
         </tr>        
         <tr>
-          <td style="text-align:center;">CPP piscine</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/cpp-module-08"> </td>
+          <td style="text-align:center;">CPP Modules</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/CPP Module 08"> </td>
         </tr>      
     </thead>
     <tbody>
