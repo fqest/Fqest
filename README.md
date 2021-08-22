@@ -1,11 +1,9 @@
 ### Hi there 👋, I'm Fqest
 ![](https://komarev.com/ghpvc/?username=fqest)
 
-## I`m programmer, and student School 21
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
+## I am a student at School 21 (Ecole 42)
 
-<p align="center">
+<p align="left">
   <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.herokuapp.com/api/stats/lvalery?darkmode=true&privacyEmail=true"/>
   </a>
