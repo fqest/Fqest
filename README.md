@@ -48,6 +48,13 @@
     </tbody>
 </table>
 
+<p>
+  <a href="img/image_01(large).bmp"><img src="img/image_01(small).bmp" alt="image_01.bmp" width="240" height="240"></a>
+  <img src="img/image_02(small).bmp" alt="image_01.bmp" width="240" height="240">
+  <img src="img/image_03(small).bmp" alt="image_01.bmp" width="240" height="240">
+  <img src="img/image_04(small).bmp" alt="image_01.bmp" width="240" height="240">
+  <img src="img/image_05(small).bmp" alt="image_01.bmp" width="240" height="240">
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fqest)
