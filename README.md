@@ -55,7 +55,7 @@
   <a href="https://raw.githubusercontent.com/fqest/Fqest/main/img/image_02(large).bmp"><img src="img/image_02(small).bmp" alt="image_02.bmp" width="240" height="240"></a>
   <a href="https://raw.githubusercontent.com/fqest/Fqest/main/img/image_03(large).bmp"><img src="img/image_03(small).bmp" alt="image_03.bmp" width="240" height="240"></a>
   <a href="https://raw.githubusercontent.com/fqest/Fqest/main/img/image_04(large).bmp"><img src="img/image_04(small).bmp" alt="image_04.bmp" width="240" height="240"></a>
-  go](https://raw.githubusercontent.com/fqest/Fqest/main/img/image_05(large).bmp){:target="_blank" rel="noopener"} <img src="https://raw.githubusercontent.com/fqest/Fqest/main/img/image_05(large).bmp" alt="image_05.bmp" width="240" height="240"></a>
+  [go](https://raw.githubusercontent.com/fqest/Fqest/main/img/image_05(large).bmp){:target="_blank" rel="noopener"} <img src="https://raw.githubusercontent.com/fqest/Fqest/main/img/image_05(large).bmp" alt="image_05.bmp" width="240" height="240"></a>
 </p>
 
 
