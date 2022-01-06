@@ -49,6 +49,9 @@
         <tr>
           <td style="text-align:center;">Ft_containers</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/ft_containers"> </td>
         </tr>    
+        <tr>
+          <td style="text-align:center;">Webserver</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/webserv"> </td>
+        </tr>   
     </thead>
     <tbody>
     </tbody>
