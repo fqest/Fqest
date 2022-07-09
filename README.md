@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/stats?cursusId=21&coalitionId=103">
+    <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/stats?cursusId=21&coalitionId=103&displayEmail=false">
   </a>
 </p>
 <table>
