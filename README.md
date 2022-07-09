@@ -5,52 +5,52 @@
 
 <p align="left">
   <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/stats?cursusId=21&coalitionId=103"/>
+    <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/stats?cursusId=21&coalitionId=103">
   </a>
 </p>
 <table>
     <thead>
         <tr>
-          <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Libft"> </td>
+          <td style="text-align:center;">Libft (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2024176"> </td>
         </tr>     
         <tr>
-          <td style="text-align:center;">Netwhat</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/netwhat"> </td>
+          <td style="text-align:center;">Netwhat (network)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2035403"> </td>
         </tr>  
         <tr>
-          <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/get_next_line"> </td>
+          <td style="text-align:center;">Get_next_line (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2035402"> </td>
         </tr>       
         <tr>
-          <td style="text-align:center;">Ft_printf</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/ft_printf"> </td>
+          <td style="text-align:center;">Ft_printf (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2046134"> </td>
         </tr>     
         <tr>
-          <td style="text-align:center;">Ft_server</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/ft_server"> </td>
+          <td style="text-align:center;">Ft_server (Docker)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2113777"> </td>
         </tr>        
         <tr>
-          <td style="text-align:center;">Libasm</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/libasm"> </td>
+          <td style="text-align:center;">Libasm (ASM)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2131387"> </td>
         </tr>         
         <tr>
-          <td style="text-align:center;">MiniRT</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/miniRT"> </td>
+          <td style="text-align:center;">MiniRT (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2062169"> </td>
         </tr>
         <tr>
-          <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/minishell"> </td>
+          <td style="text-align:center;">Minishell (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2149674"> </td>
         </tr>
         <tr>
-          <td style="text-align:center;">Push_swap</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/push_swap"> </td>
+          <td style="text-align:center;">Push_swap (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2171428"> </td>
         </tr>        
         <tr>
-          <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Philosophers"> </td>
+          <td style="text-align:center;">Philosophers (С)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2184541"> </td>
         </tr>        
         <tr>
-          <td style="text-align:center;">CPP Modules</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/CPP Module 08"> </td>
+          <td style="text-align:center;">CPP Modules (С++)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2297939"> </td>
         </tr>    
         <tr>
-          <td style="text-align:center;">Inception</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/Inception"> </td>
+          <td style="text-align:center;">Inception (Docker compose)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2305318"> </td>
         </tr>    
         <tr>
-          <td style="text-align:center;">Ft_containers</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/ft_containers"> </td>
+          <td style="text-align:center;">Ft_containers (С++)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2305246"> </td>
         </tr>    
         <tr>
-          <td style="text-align:center;">Webserver</td> <td> <img src="https://badge42.herokuapp.com/api/project/lvalery/webserv"> </td>
+          <td style="text-align:center;">Webserver (С++)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2313490"> </td>
         </tr>   
     </thead>
     <tbody>
