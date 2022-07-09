@@ -1,5 +1,4 @@
-### Hi, I'm Fqest
-![](https://komarev.com/ghpvc/?username=fqest)
+### Hi, my name is Fanis
 
 ## I am a student at School 21 (Ecole 42)
 
