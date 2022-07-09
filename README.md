@@ -52,6 +52,9 @@
         <tr>
           <td style="text-align:center;">Webserver (С++)</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2313490"> </td>
         </tr>   
+        <tr>
+          <td style="text-align:center;">Piscine Swift iOS</td> <td> <img src="https://badge42.vercel.app/api/v2/cl5dyxi7u003009maji7yghgz/project/2482869"> </td>
+        </tr> 
     </thead>
     <tbody>
     </tbody>
